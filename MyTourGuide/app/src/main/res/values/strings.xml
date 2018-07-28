@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">My Tour Guide</string>
+    <string name="info1">City Info</string>
+    <string name="explanation1">Learn the history</string>
+    <string name="info2">Where To Go</string>
+    <string name="explanation2">See the sights</string>
+    <string name="info3">What To Eat</string>
+    <string name="explanation3">Eat delicious</string>
+    <string name="info4">City Songs</string>
+    <string name="explanation4">Songs related to the city</string>
+    <string name="city_info">information</string>
+    <string name="city_explanation">explanation</string>
+    <string name="discover">Discover Thessaloniki</string>
+
+
+    <string name="city_info1">Thessaloniki is the second-largest city in Greece.</string>
+    <string name="city_info2">The city was founded in 315 BC by Cassander of Macedon.</string>
+    <string name="city_info3">He named it after his wife Thessalonike.</string>
+    <string name="city_info4">By the 8th century, the city had become an center of the Byzantine Empire.</string>
+    <string name="city_info5">Thessaloniki is home to numerous Byzantine monuments.</string>
+    <string name="city_info6">The city saw the creation of more notable Christian churches.</string>
+    <string name="city_info7">Agios Dimitrios is the most important church of Thessaloniki.</string>
+    <string name="city_info8">The city s main university is the largest in the Balkans.</string>
+
+    <string name="to_eat1">Koulouri</string>
+    <string name="to_eat2">Mpougatsa</string>
+    <string name="to_eat3">Trigona Panoramatos</string>
+    <string name="to_eat4">Tsoureki</string>
+    <string name="to_eat5">Keftedakia</string>
+    <string name="to_eat6">Dolmadakia</string>
+    <string name="to_eat7">Roxakia</string>
+
+    <string name="to_go_info1">White Tower</string>
+    <string name="to_go_info2">Alexander The Great and beach</string>
+    <string name="to_go_info3">Aristotelous Square</string>
+    <string name="to_go_info4">Agias Sofias Church</string>
+    <string name="to_go_info5">Modiano Market</string>
+    <string name="to_go_info6">Ladadika</string>
+    <string name="to_go_info7">Archeological museum</string>
+    <string name="to_go_info8">Ano Poli area</string>
+    <string name="to_go_info9">Kamara</string>
+    <string name="to_go_info10">Roman Market</string>
+
+
+    <string name="to_go_explan1">Previously prison</string>
+    <string name="to_go_explan2">Walk at the beach enjoying great statues</string>
+    <string name="to_go_explan3">The langest square in Thessaloniki</string>
+    <string name="to_go_explan4">Byzantine church</string>
+    <string name="to_go_explan5">Central market with variety of products</string>
+    <string name="to_go_explan6">Historic district and a landmark area</string>
+    <string name="to_go_explan7">One of the largest museums in Greece</string>
+    <string name="to_go_explan8">Time stood still: Byzantine past</string>
+    <string name="to_go_explan9">The arch was built to celebrate the victory of Galerius</string>
+    <string name="to_go_explan10">It represented the social and religious centre of the town.</string>
+    <string name="blanc"></string>
+
+    <string name="songs_info1">Hello, my love Salonica</string>
+    <string name="songs_info2">Τα λαδάδικα</string>
+    <string name="songs_info3">Δικαίωμα μου</string>
+    <string name="songs_info4">Θεσσαλονίκη μου</string>
+    <string name="songs_info5">Σ αναζητώ στη Σαλονίκη</string>
+    <string name="songs_info6">Στον Λευκό Τον Πύργο</string>
+    <string name="songs_info7">Αθήνα Θεσσαλονίκη</string>
+
+    <string name="songs_explan1">The Forminx</string>
+    <string name="songs_explan2">Δημήτρης Μητροπάνος</string>
+    <string name="songs_explan3">Πασχάλης Τερζής</string>
+    <string name="songs_explan4">Στέλιος Καζατζίδης</string>
+    <string name="songs_explan5">Δημήτρης Μητροπάνος</string>
+    <string name="songs_explan6">Γιώργος Ζαμπέτας</string>
+    <string name="songs_explan7">Κωνσταντίνος Αργυρός</string>
+
+    <string name="press_to_strart">Press anywhere in the screen to get started...</string>
+
+</resources>
